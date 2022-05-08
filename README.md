@@ -1,10 +1,11 @@
-Calculadora de IMC
+# Calculadora de IMC
+
 Projeto em React + Typescript fazendo uma calculadora de IMC
 
-Projeto desenvolvido durante curso b7Web - https://b7web.com.br
+Projeto desenvolvido durante curso [b7Web](https://b7web.com)
 
-    Instalação
+### Instalação
 - npm install
 
-    Para rodar
+### Para rodar
 - npm start
